@@ -1,4 +1,6 @@
 #
+# /usr/bin/perl -w
+#
 # Filename: proj2_3.pl
 #
 # Description: Project 2 part 3

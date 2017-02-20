@@ -1,3 +1,4 @@
+# /usr/bin/perl -w
 #
 # Filename: proj2_2.pl
 #
