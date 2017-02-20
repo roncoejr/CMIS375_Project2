@@ -1,0 +1,5 @@
+CPAN stands for comprehensive Perl Archive Network.
+^ and $ are used as anchors in a regular expression.
+/pattern/ is a pattern match operator.
+Perl is very easy to learn.
+Enter 'H' or 'h' for help.

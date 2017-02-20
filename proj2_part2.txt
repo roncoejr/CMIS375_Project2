@@ -1,0 +1,8 @@
+Tim created the Module List in August 1994 and maintained it manually till 
+April 1996. By that time Andreas had implemented the Perl Authors Upload 
+Server (PAUSE) and it was happily feeding modules through to the CPAN archive sites.
+Since PAUSE held a database of module information which could be maintained by module authors
+it made sense for the module listing part of the Module List to be built 
+from that database. In April 1996 Andreas took over the automatic posting of 
+the Module List and I now maintain the other parts of the text. We plan to add 
+value to the automation over time.

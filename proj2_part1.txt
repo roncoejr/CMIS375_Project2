@@ -1,0 +1,9 @@
+BIG BLUE LOOKED TO BIG RED -- IBM received great publicity when its 
+Deep Blue chess machine beat the world chess champion, Gary Kasparov.
+Deep Blue is a supercomputer that runs on the IBM AIX version of the 
+UNIX system.  After the computer won the second game of the match, the
+head of the IBM team introduced to the audience his consultant and the
+creator of UNIX, Lucent's legendary Dennis Ritchie. The audience gave 
+Ritchie a standing ovation.  Maybe Bell Labs should get its deserved
+share of publicity in this man vs. machine hyperbole. 
+-- Alex Lubashevsky, Warren, N.J. (Lucent Today 5/13/97)
